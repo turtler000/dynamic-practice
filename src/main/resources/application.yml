@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: dynamic-practice
+# spring cloud access&secret config
+# 可以访问如下地址查看: https://usercenter.console.aliyun.com/#/manage/ak
+
+
+
